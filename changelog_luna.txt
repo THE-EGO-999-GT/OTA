@@ -1,1 +1,9 @@
-Initial release 
+Changelog - v3.12 (04/09/2026)
+
+Device Specific:
+• Initial Release
+• Updated blobs from latest stock OS V816.0.19.0.UKKMIXM
+• Implement Flashlight Strength control
+• Implement OTA Update System
+• Included Sony Dolby 1.5
+• Included KSU NEXT 3.2.0 SUFS VERSION 2.1.0
