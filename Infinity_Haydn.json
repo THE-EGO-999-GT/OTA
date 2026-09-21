@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Project_Infinity-X-3.12-haydn-21.09.2026-GAPPS-UNOFFICIAL.zip",
-      "download": "https://store-na-phx-4.gofile.io/download/web/3bd0e9bf-3440-4f5f-9b21-b49d4c050175/Project_Infinity-X-3.12-haydn-21.09.2026-GAPPS-UNOFFICIAL.zip",
       "datetime": 1790020787,
-      "size": 2388968250,
-      "version": "3.12",
+      "filename": "Project_Infinity-X-3.12-haydn-21.09.2026-GAPPS-UNOFFICIAL.zip",
       "id": "7c887eafde51eebce77cec70fc1a9983",
-      "romtype": "UNOFFICIAL"
+      "romtype": "unofficial",
+      "size": 2388968250,
+      "url": "https://store-na-phx-4.gofile.io/download/web/3bd0e9bf-3440-4f5f-9b21-b49d4c050175/Project_Infinity-X-3.12-haydn-21.09.2026-GAPPS-UNOFFICIAL.zip",
+      "version": "3.12"
     }
   ]
 }
