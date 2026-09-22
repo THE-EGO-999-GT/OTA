@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1790020787,
       "filename": "Project_Infinity-X-3.12-haydn-21.09.2026-GAPPS-UNOFFICIAL.zip",
-      "id": "7c887eafde51eebce77cec70fc1a9983",
-      "romtype": "unofficial",
+      "download": "https://sourceforge.net/projects/project-infinity-x-for-haydn/files/Project_Infinity-X-3.12-haydn-21.09.2026-GAPPS-UNOFFICIAL.zip/download",
+      "timestamp": 1790020787,
+      "md5": "7c887eafde51eebce77cec70fc1a9983",
       "size": 2388968250,
-      "url": "https://store-na-phx-4.gofile.io/download/web/3bd0e9bf-3440-4f5f-9b21-b49d4c050175/Project_Infinity-X-3.12-haydn-21.09.2026-GAPPS-UNOFFICIAL.zip",
-      "version": "3.12"
+      "version": "3.12",
+      "changelog": "https://raw.githubusercontent.com/THE-EGO-999-GT/OTA/main/changelog_inf.txt"
     }
   ]
 }
