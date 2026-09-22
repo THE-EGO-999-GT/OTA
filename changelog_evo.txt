@@ -1,3 +1,19 @@
+Changelog - v11.11 (22.09.2026)
+Device Specific:
+•Added KowSU 3.3.0 By Default
+•Include CameraX Extensions Support
+•Remove SetClamps Actions From Task Profiles
+•Remove Fwk-Detect Lib From PRODUCT_PACKAGES
+•Fixed Battery Drain Issue
+•Improved Overall Performance & Smoothness
+•Reduced Heating, Cooler Than Before
+
+Source Changelog
+•https://github.com/Evolution-X/changelog/blob/bka/changelogs/LATEST.txt
+
+
+
+
 Changelog - v11.10 (05/09/2026)
 
 Device Specific:
