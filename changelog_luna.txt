@@ -1,7 +1,6 @@
 Changelog - v3.12 (22.09.2026)
 Device Specific:
-•Added KowSU 3.3.0 By Default 
-•Include Xiaomi High Touch Polling Rate
+•Added KowSU 3.3.0 By Default
 •Include CameraX Extensions Support
 •Remove SetClamps Actions From Task Profiles
 •Remove Fwk-Detect Lib From PRODUCT_PACKAGES
