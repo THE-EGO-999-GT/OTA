@@ -2,11 +2,11 @@
   "response": [
     {
       "filename": "EvolutionX-16.0-20260904-haydn-11.10-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/evolution-x-for-haydn/files/EvolutionX-16.0-20260904-haydn-11.10-Unofficial.zip/download",
-      "timestamp": 948988943,
-      "md5": "6f83168be93f03d504dd9969012c98f3",
-      "size": 2399545980,
-      "version": "11.10"
+      "download": "https://sourceforge.net/projects/evolution-x-for-haydn/files/",
+      "timestamp": 1790059803,
+      "md5": "43a2d7c4db61bc9166aea2517461d726",
+      "size": 3339780609,
+      "version": "11.11"
       "changelog": "https://raw.githubusercontent.com/THE-EGO-999-GT/OTA/main/changelog_evo.txt"
     }
   ]
