@@ -1,13 +1,13 @@
 {
   "response": [
     {
+      "datetime": 1790056325,
       "filename": "Lunaris-AOSP-haydn-UNOFFICIAL-3.12-GMS-2026092205.zip",
-      "download": "https://sourceforge.net/projects/lunaria-aosp-for-haydn/files/Lunaris-AOSP-haydn-UNOFFICIAL-3.12-GMS-2026092205.zip/download",
-      "timestamp": 1790056325,
-      "md5": "48172ea1405846172c425cdd08078071",
+      "id": "48172ea1405846172c425cdd08078071",
+      "romtype": "unofficial",
       "size": 2995296047,
+      "url": "https://sourceforge.net/projects/lunaria-aosp-for-haydn/files/Lunaris-AOSP-haydn-UNOFFICIAL-3.12-GMS-2026092205.zip/download",
       "version": "3.12"
-      "changelog": "https://raw.githubusercontent.com/THE-EGO-999-GT/OTA/main/changelog_luna.txt"
     }
   ]
 }
