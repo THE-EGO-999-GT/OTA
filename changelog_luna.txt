@@ -1,3 +1,20 @@
+Changelog - v3.12 (22.09.2026)
+Device Specific:
+•Added KowSU 3.3.0 By Default 
+•Include Xiaomi High Touch Polling Rate
+•Include CameraX Extensions Support
+•Remove SetClamps Actions From Task Profiles
+•Remove Fwk-Detect Lib From PRODUCT_PACKAGES
+•Fixed Battery Drain Issue
+•Improved Overall Performance & Smoothness
+•Reduced Heating, Cooler Than Before
+
+Source Changelog
+•https://t.me/lunaris_dailyUP/1125
+
+
+
+
 Changelog - v3.12 (04/09/2026)
 
 Device Specific:
@@ -7,3 +24,6 @@ Device Specific:
 • Implement OTA Update System
 • Included Sony Dolby 1.5
 • Included KSU NEXT 3.2.0 SUFS VERSION 2.1.0
+
+Source Changelog
+•https://t.me/lunaris_dailyUP/1114
